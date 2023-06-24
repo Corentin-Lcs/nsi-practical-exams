@@ -76,4 +76,4 @@ Named `Corrigés.py` (Corrections.py), the file contains all the corrections for
 
 Created by [@Corentin-Lcs](https://twitter.com/CorentinLenclos). Feel free to contact me !
 
-Distributed under the XYZ license. See [LICENSE](https://github.com/Corentin-Lcs/nsi-practical-exams/blob/main/LICENSE) for more information.
+Distributed under the GNU GPLv3 license. See [LICENSE](https://github.com/Corentin-Lcs/nsi-practical-exams/blob/main/LICENSE) for more information.
