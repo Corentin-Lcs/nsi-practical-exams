@@ -2,7 +2,8 @@
 
 The "NSI Practical Exams" GitHub project is a complete collection of subjects, answers and files associated with the practical exams of the General Baccalaureate in Digital and Computer Science (Numérique et Sciences Informatiques) for the years 2021 to 2023.
 
-> **Warning** : PDF subjects and their .py version as well as corrections are written in French.
+> [!IMPORTANT]  
+> PDF subjects and their .py version as well as corrections are written in French.
 
 <p align="center">
   <img src="https://github.com/Corentin-Lcs/nsi-practical-exams/blob/main/French_Republic_Logo.png" alt="French_Republic_Logo.png"/>
