@@ -1,6 +1,5 @@
 <h1 align="center">NSI Practical Exams</h1>
 
-
 The "NSI Practical Exams" GitHub project is a complete collection of subjects, answers and files associated with the practical exams of the General Baccalaureate in Digital and Computer Science (Numérique et Sciences Informatiques) for the years 2021 to 2023.
 
 > [!IMPORTANT]  
